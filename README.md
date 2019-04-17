@@ -1,0 +1,2 @@
+# RICBot
+Python bot
